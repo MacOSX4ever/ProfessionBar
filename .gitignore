@@ -1,0 +1,13 @@
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Editor / IDE trash
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,9 @@
+## Interface: 120005
+## Title: ProfessionBar
+## Notes: Displays icons for all learned professions and sub-abilities
+## Version: 1.0.2
+## Author: ßellena - Blade's Edge
+## SavedVariables: ProfessionBarDB
+## X-Website: https://www.curseforge.com/wow/addons/professionbar
+
+ProfessionBar.lua
